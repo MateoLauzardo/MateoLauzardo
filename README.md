@@ -8,8 +8,6 @@
 🌍 Location: Miramar, Florida<br/>
 📫 How to reach me: Email: mateo.lauzardo@hotmail.com or [Linkdin](https://www.linkedin.com/in/mateo-lauzardo-755559319/)<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoLauzardo)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateo-lauzardo-755559319/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MTZTrades) 
 
