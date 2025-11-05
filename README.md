@@ -1,6 +1,6 @@
 
 
-# 💫  Hi, I'm Mateo!:
+# 👋 Hi, I'm Mateo!
 
 💼 I'm a Software Engineer with a deep passion for problem solving and AI!<br/>
 🎓 I Study Computer Science at the Florida Internatinal University<br/>
