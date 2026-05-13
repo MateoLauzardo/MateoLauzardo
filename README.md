@@ -1,4 +1,4 @@
-💼 I'm a Software Engineer with a deep passion for problem solving and AI!<br/>
+💼 I'm a Software Engineer with intrest in backend & system architecture <br/>
 🎓 I Study Computer Science at the Florida Internatinal University<br/>
 🎬 I enjoy [Editing](https://www.youtube.com/watch?v=ux0z3glQOPM) and making videos about [Computer Science](https://www.youtube.com/@MTZTrades/videos)<br/>
 🌍 Location: Miramar, Florida<br/>
